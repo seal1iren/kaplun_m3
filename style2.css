@@ -45,6 +45,9 @@ main h1{
 }
 
 footer{
+    position: absolute;
+    top:86%;
+    width:100%;
     background-color: #AA00A2;
     height:112px;
 }
